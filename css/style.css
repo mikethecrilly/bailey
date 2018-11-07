@@ -1,7 +1,15 @@
 .article-details > p {
-color: black
+	color: black
 }
 
 a:hover {
-text-decoration: none !important;
+	text-decoration: none !important;
+}
+
+h1 {
+	margin-top: 10px;
+}
+
+p.lead {
+	margin-top: 10px;
 }
