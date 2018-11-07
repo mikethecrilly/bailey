@@ -1,3 +1,7 @@
-a > p {
+.article-details > p {
 color: black
+}
+
+a:hover {
+text-decoration: none !important;
 }
