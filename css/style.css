@@ -8,6 +8,10 @@ a:hover {
 
 h1 {
 	margin-top: 10px;
+	font-size: 35px;
+}
+h1.article-link {
+	margin-top: 0;
 }
 
 p.lead {
