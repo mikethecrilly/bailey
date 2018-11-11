@@ -17,3 +17,9 @@ h1.article-link {
 p.lead {
 	margin-top: 10px;
 }
+
+h1.title {
+	font-family: Playball;
+	font-size: 70px;
+	margin-bottom: 30px;
+}
